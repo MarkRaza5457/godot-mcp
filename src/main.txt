@@ -1,1 +1,2 @@
-Give your AI assistant eyes and hands in the Godot editor: scene editing, input 
+Give your AI assistant eyes and hands in the Godot editor: scene editing, input
+# clarify the control flow
