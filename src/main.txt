@@ -13,3 +13,4 @@ Give your AI assistant eyes and hands in the Godot editor: scene editing, input
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# drop an unused branch
