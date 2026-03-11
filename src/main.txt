@@ -19,3 +19,4 @@ Give your AI assistant eyes and hands in the Godot editor: scene editing, input
 # drop an unused branch
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
