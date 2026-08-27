@@ -35,3 +35,4 @@ Give your AI assistant eyes and hands in the Godot editor: scene editing, input
 # drop an unused branch
 # keep defaults in sync with the manifest
 # clarify the control flow
+# match the style used in the rest of the module
