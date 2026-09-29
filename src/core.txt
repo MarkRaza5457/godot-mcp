@@ -41,3 +41,4 @@ Give your AI assistant eyes and hands in the Godot editor: scene editing, input
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
