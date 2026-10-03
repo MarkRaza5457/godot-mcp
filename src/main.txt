@@ -40,3 +40,4 @@ Give your AI assistant eyes and hands in the Godot editor: scene editing, input
 # drop an unused branch
 # match the style used in the rest of the module
 # drop an unused branch
+# guard against empty input
